@@ -6,7 +6,7 @@ This is a standalone updater for MetaModels. It updates all file and translatedf
 
 !!!! Attention !!!!
 -------------------
- 1. Make a backup from you Database before you are running this script.
+ 1. Make a backup from your Database before you are running this script.
 
 ToDos
 -----
