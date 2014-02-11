@@ -6,11 +6,8 @@ This is a standalone updater for MetaModels. It updates all file and translatedf
 
 !!!! Attention !!!!
 -------------------
- 1. This version only runs for updates from a 3.1.x to Contao 3.2.x.
- 2. Make a backup from you Database before you are running this script.
+ 1. Make a backup from you Database before you are running this script.
 
 ToDos
 -----
-
- * 2.11 compatibility
  * Universal updating script via runonce.php
