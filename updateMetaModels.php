@@ -23,7 +23,7 @@ use MetaModels\IMetaModel;
 /**
  * Initialize the system
  */
-define('TL_MODE', 'Updater');
+define('TL_MODE', 'BE');
 require 'system/initialize.php';
 
 /**
